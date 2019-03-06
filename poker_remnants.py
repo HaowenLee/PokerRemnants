@@ -1,6 +1,5 @@
 # -*- coding: UTF-8 -*-
-# Author: Tim Wu
-# Author: Carl King
+# 该算法比较慢
 
 import operator
 
